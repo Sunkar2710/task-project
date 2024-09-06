@@ -1,0 +1,37 @@
+1. Classic Pizzas:
+    * Cheese Pizza: $10
+    * Pepperoni Pizza: $12
+    * Sausage Pizza: $12
+    * The Works: $15
+    * Meat Lover's: $15
+    * Hawaiian BBQ Chicken: $13
+    * Garden Fresh: $15
+
+2. Specialty Pizzas:
+    * BBQ Chicken Bacon Pizza: $20
+    * Buffalo Chicken Pizza: $20
+    * Spinach Alfredo Pizza: $18
+    * Philly Cheesesteak Pizza: $18
+
+3. Papadias:
+    * Italian Papadia: $7
+    * Philly Cheesesteak Papadia: $7.5
+    * Grilled BBQ Chicken & Bacon Papadia: $7.5
+    * Meatball & Pepperoni Papadia: $6
+    * Spicy Italian Papadia: $6
+
+4. Desserts:
+    * Cinnamon Pull-Aparts: $7
+    * Chocolate Chip Cookie: $7
+    * Double Chocolate Chip Brownie: $6
+    * Cinnamon Knots: $6
+
+5. Drinks:
+    * Pepsi: $2
+    * Diet Pepsi: $2
+    * Pepsi Zero Sugar: $2
+    * Mountain Dew: $3
+    * Diet Mountain Dew: $3
+    * Dr Pepper: $3
+    * Diet Dr Pepper: $3
+    * Aquafina: $2
