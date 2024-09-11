@@ -19,29 +19,6 @@ public class Customer {
         this.order = order;
     }
 
-    public double getCost() {
-        Path file = Paths.get(".\\menu.txt");
-        Charset charset = StandardCharsets.US_ASCII;
-        try (BufferedReader reader = Files.newBufferedReader(file, charset)) {
-            String line;
-            double cost = 0.0;
-
-            while ((line = reader.readLine()) != null) {
-                if (!line.contains(": $")) continue;
-
-                for (String item : order) {
-                    if (line.contains(item + ": $")) {
-                        String price = line.split(": \\$")[1].trim();
-                        cost += Double.parseDouble(price);
-                    }
-                }
-            }
-            return cost;
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-    }
-
     public void setAddress(String value) {
         address = value;
     }

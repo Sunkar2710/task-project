@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        Delivery.displayMenu();
-        Delivery.addOrder();
+        Delivery delivery = new Delivery();
+        delivery.displayMenu();
+        delivery.addOrder();
+        delivery.displayOrder();
     }
 }
